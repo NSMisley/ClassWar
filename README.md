@@ -5,11 +5,11 @@ ClassWar is a tool to assist the archival of Regional Message Boards on the onli
 
 ## Using ClassWar
 
-1. Upload ClassWar to your web server
+1. Upload classwar.php to your web server
 
 2. Remove the comment (`//`) before `$useragent` on line 3 and change `CHANGETHISTOYOURNATION` to your nation name.
  
-3. Either access it via a browser (for small regions only! large RMBs can't be archived this way) like so: `https://yourwebsite.url/classwar.php?region=the_internationale` OR via the command line, like so: `php -e classwar.php -r "the internationale"`
+3. Either access ClassWar via a browser (for small regions only! large RMBs can't be archived this way) like so: `https://yourwebsite.url/classwar.php?region=the_internationale` OR via the command line, like so: `php -e classwar.php -r "the internationale"` (Note: If you don't set up .htaccess for this file, any visitor to your website can invoke this module and potentially push you over the rate limit. You can remove classwar.php from your server once you have finished downloading the RMB into your SQL file.
 
 4. Congratulations! You're the new owner of a SQL file with the contents of your requested RMB.
 
