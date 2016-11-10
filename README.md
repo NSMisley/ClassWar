@@ -49,4 +49,54 @@ Well, then you can't use ClassWar. It's designed to work with a MySQL database t
 
 ClassWar (specifically, `classwar.php` and `cw-rmbhandler.php`) is licensed through the BSD 3-Clause license.
 
-ClassWar includes the BBCode parser "NBBC," which is licensed under the BSD 2-Clause license, and the "NationStates" font which is copyright NationStates.net. ClassWar relies on the DataTables jQuery plugin, which is licensed under the MIT license.
+ClassWar includes the BBCode parser "NBBC," modified by me to handle NSCode for ClassWar. NBBC is licensed under the BSD 2-Clause license.
+
+ClassWar includes the "NationStates" font which is copyright NationStates.net and the authors below.
+
+ClassWar relies on the DataTables jQuery plugin, which is licensed under the MIT license.
+
+The icons included in the NationStates font are from the following font libraries:
+
+### Font Awesome
+
+   Copyright (C) by Dave Gandy.
+
+   Author:    Dave Gandy
+   License:   Font: OFL (http://scripts.sil.org/OFL)
+   Homepage:  http://fortawesome.github.com/Font-Awesome/
+
+
+### Entypo
+
+   Copyright (C) by Daniel Bruce.
+
+   Author:    Daniel Bruce
+   License:   OFL (http://scripts.sil.org/OFL)
+   Homepage:  http://www.entypo.com
+
+
+### Modern Pictograms
+
+   Copyright (C) by John Caserta. All rights reserved.
+
+   Author:    John Caserta
+   License:   OFL (http://scripts.sil.org/OFL)
+   Homepage:  http://thedesignoffice.org/project/modern-pictograms/
+
+
+### Typicons
+
+   Copyright (C) by Stephen Hutchings.
+
+   Author:    Stephen Hutchings
+   License:   Font: OFL (http://scripts.sil.org/OFL), Icons: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+   Homepage:  http://typicons.com/
+
+
+### Maki
+
+   Copyright (C) Mapbox
+
+   Author:    Mapbox
+   License:   CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+   Homepage:  https://www.mapbox.com/maki-icons/
